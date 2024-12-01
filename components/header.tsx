@@ -1,5 +1,9 @@
+import Header2 from "./header2";
+
 export default function Header() {
     return(
-        <h1>Home page - NodeJs</h1>    
+        <div>
+        <Header2/>
+        </div>   
     )
 }
